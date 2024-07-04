@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/niti/Desktop/Sysopy",
+            "binaryPath": "/home/niti/Desktop/Sysopy/a.out",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/niti/Desktop/Sysopy",
+            "binaryPath": "/home/niti/Desktop/Sysopy/countdown",
+            "binaryArgs": []
+        }
+    ]
+}
